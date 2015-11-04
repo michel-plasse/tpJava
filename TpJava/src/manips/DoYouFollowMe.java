@@ -11,4 +11,6 @@ package manips;
  */
 public class DoYouFollowMe {
 
+    int a, b;
+    
 }
